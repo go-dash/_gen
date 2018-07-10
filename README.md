@@ -41,3 +41,11 @@ $GOPATH/src/github.com/go-dash/slice/_string
 $GOPATH/src/github.com/go-dash/slice/_int
 $GOPATH/src/github.com/go-dash/slice/_Person
 ```
+
+## License
+
+MIT
+
+## Who made this
+
+Godash is developed by the [Orbs.com](https://orbs.com) engineering team. Orbs is a public blockchain infrastructure for decentralized consumer applications with millions of users. Orbs core has an open source [implementation](https://github.com/orbs-network/orbs-network-go) in golang.
